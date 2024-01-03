@@ -1,29 +1,36 @@
 [
   {
     "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "organisation": "UNIT4",
+    "startDate": "Jun, 2022",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "experiences": ["Engineered APIs to replicate screen behavior for customer integrations.",
+      "Incorporated a third-party AI model, enhancing process efficiency for over 1000 users.",
+      "Resolved over 50 direct customer issues",
+      "Built highly efficient asynchronous APIs utilizing parallelism to proficiently manage batch requests increasing existing performance up to 8 times",
+      "Led a team as Scrum Master"],
+    "imageSrc": "history/unit4.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Freelancer",
+    "organisation": "",
+    "startDate": "Jun, 2022",
+    "endDate": "Present",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Engineered a comprehensive ASP.NET solution to enhance storability, streamline summary generation, and track processes efficiently within a law firm.",
+      "Automated creation of Scrum meetings on Teams through scripting improving Scrum Masters efficiency",
+      "Engineered an application enabling streamlined buying and selling interactions within a university residence."
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/freelancing.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "PPN",
+    "startDate": "May, 2021",
+    "endDate": "May, 2022",
+    "experiences": [
+      "Mentored newcomers on SOLID principles and best programming practices",
+      "Engineered three comprehensive screens using React and Java, catering to over 200 users"],
+    "imageSrc": "history/ppn.png"
   }
 ]

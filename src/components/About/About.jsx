@@ -44,6 +44,15 @@ export const About = () => {
               </p>
             </div>
           </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Full Stack Engineer</h3>
+              <p>
+                With full-stack expertise, I adeptly create, animate, and construct comprehensive websites and systems.
+              </p>
+            </div>
+          </li>
         </ul>
       </div>
     </section>

@@ -1,26 +1,30 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Meetings Automation",
+    "imageSrc": "projects/meetings.png",
+    "description": "Automated creation of Scrum meetings on Teams through scripting improving Scrum Masters efficiency.",
+    "skills": ["Python", "Msal", "API"],
+    "demo": "https://youtu.be/aMsUrIxNvlc"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Processes Management",
+    "imageSrc": "projects/law.png",
+    "description": "A Solution to enhance storability, streamline summary generation, and track processes efficiently within a law firm.",
+    "skills": ["ASP.NET", "C#", "Firebase"],
+    "demo": "https://youtu.be/EZV8DrmLCwc"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Shooter Game Project",
+    "imageSrc": "projects/shotter.jpeg",
+    "description": "A 2D looter shooter game with player-versus-monster dynamics. Players wield three distinct weapons, battling through varied monster challenges to advance levels.",
+    "skills": ["Java", "Git", "Groovy"],
+    "source": "https://github.com/ianitalo/Shooter-Game"
+  },
+  {
+    "title": "Bus System",
+    "imageSrc": "projects/bus.png",
+    "description": "Implemented an app to find the best bus route in Porto, optimizing temporal and spatial complexity using a graph structure from a specific city point.",
+    "skills": ["C++", "Doxygen", "Excel"],
+    "source": "https://github.com/ianitalo/AED-Bus-System"
   }
 ]
