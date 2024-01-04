@@ -2,6 +2,7 @@ import React from "react";
 
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
+let curriculo = "Ian_Gomes_Resume_Updated.pdf";
 
 export const Hero = () => {
   return (
@@ -21,9 +22,9 @@ export const Hero = () => {
             Contact Me
           </a>
           <a
-            href={getImageUrl("Ian_Gomes_Resume_Updated.pdf")}
+            href={getImageUrl(curriculo)}
             className={styles.contactBtn}
-            download="Ian_Gomes_Resume_Updated.pdf"
+            download={curriculo}
           >
             Download CV
           </a>
